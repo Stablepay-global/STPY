@@ -1,0 +1,80 @@
+Absolutely — here’s a breakdown of how Stable Pay’s Arbitrage Vault model benefits investors using the stablecoin premium strategy between offshore and Indian markets.
+
+⸻
+
+💡 What Is Stablecoin Arbitrage?
+
+Stablecoin arbitrage in the context of Stable Pay involves capturing the premium between USD stablecoins (USDT/USDC) and their INR off-ramp value in the Indian market. This premium ranges from 0.5% to 2.5%+, depending on liquidity, compliance, and demand/supply across P2P or exchange markets.
+
+Stable Pay operates under an FIU-IND compliant, self-custody model to ensure transparent, regulatory-aligned participation while giving investors exposure to this price delta.
+
+⸻
+
+🔁 How Stable Pay Arbitrage Vault Works
+
+🔄 Flow Summary:
+	1.	User deposits USDC/USDT on supported chains (ETH, BSC, Solana, etc.)
+	2.	Funds are routed to onchain vaults visible on Stable Pay’s Vault Explorer
+	3.	Stable Pay’s backend aggregates:
+	•	INR on-ramp demand (from Indian users)
+	•	Stablecoin liquidity supply (from vault capital)
+	4.	The system captures arbitrage premium by facilitating compliant INR settlements to Indian users via FIU-IND supervised channels
+	5.	Vault investors receive yield every 15 days based on performance from these arbitrage cycles
+
+⸻
+
+📈 Real Example:
+
+Parameter	Value
+User Deposit	$10,000 USDC
+Avg Arbitrage Premium	1.5% (INR over USDC on P2P)
+Execution Cycle	15 days
+Net Payout (per 15 days)	~$150
+Annualized Yield	~18%
+Lock-in	❌ None — self-custody
+Onchain Visibility	✅ Yes — live explorer & RPC
+
+
+⸻
+
+🛡️ Why Is This Low-Risk?
+	•	No volatile tokens — Only stablecoins like USDC/USDT
+	•	No leveraged trades — Yield is based on market spread execution, not speculation
+	•	No custody risk — Vault funds remain in smart contracts, not centralized wallets
+	•	Fully visible to depositor — You can trace your funds and their usage
+
+⸻
+
+🔐 Compliance Edge
+
+Feature	Traditional Arbitrage	Stable Pay Vault
+Regulatory Registration	❌ Often unregistered	✅ FIU-IND entity
+Travel Rule / Reown ID Integration	❌ No	✅ Yes
+Reporting Output for FDI	❌ None	✅ PDF/CSV
+Smart Contract Execution	❌ Manual	✅ Automated
+
+
+⸻
+
+🧩 Additional Benefits
+	•	💸 No Need to Find Buyers — Stable Pay auto-matches supply/demand
+	•	🔄 Real-Time Vault Transparency — Onchain flow via multi-chain explorer
+	•	🧾 Yield Logs for CA Audit — Supports regulatory filings
+	•	📉 Better than FD Returns — 3x–4x the yield, with liquidity
+
+⸻
+
+🎯 Ideal For
+	•	NRIs: Park USD stablecoins offshore, earn from India remittance demand
+	•	HNIs: Passive vaults to replace idle capital or low-yield products
+	•	Corporate Treasury: Onchain strategy for global capital into India
+	•	VCs / Fund Managers: Hold funds while optimizing yield pre-deployment
+
+⸻
+
+Would you like this written as:
+	•	📄 A dedicated Landing Page module?
+	•	📊 A one-page PDF investor explainer?
+	•	⚙️ A smart contract vault function documentation?
+
+Let me know how to package this next.

@@ -1,0 +1,72 @@
+Here’s a complete comparison of traditional investment products in India (e.g., banks, real estate, bonds) vs Stable Pay’s onchain model — followed by how Stable Pay can help NRIs, HNIs, and foreign businesses enter this market with better yield, faster access, and regulatory clarity.
+
+⸻
+
+📊 Investment Product Comparison – India (Traditional vs Stable Pay Vault)
+
+Feature	Bank FD / NRI Account	Real Estate (Residential)	Mutual Funds / Bonds	Stable Pay Vault (Onchain)
+Avg Yield (Annual)	5.5%–7.5%	2.5%–3.5% (rental) + 5–6% value	7%–10%	12%–18% (1–1.5% monthly)
+Liquidity	Low (lock-in 1–5 years)	Very low (months to sell)	Moderate	High (withdraw anytime)
+Repatriation Allowed	✅ NRE Accounts only	❌ Complex (esp. for NRIs)	✅ with disclosures	✅ Onchain self-custody
+Minimum Investment	₹10,000 (~$120)	₹25–50 lakh (~$30–60K)	₹5,000 (~$60)	$500 USD
+Documentation Needed	PAN, NRE/NRO proofs	Sale deed, registration, PAN	KYC, Bank linking	Wallet, Passport, KYC/KYB
+Time to Start	3–5 days	Weeks/months	2–3 days	< 15 minutes
+Compliance Reporting	Internal bank/FEMA	RERA, Registrar, FEMA	AMC disclosures	FIU-IND / IFSCA ready export
+Traceability of Funds	❌ Internal bank systems only	❌ Offline + Legal docs	❌ Limited audit trails	✅ Fully onchain (explorer view)
+Transparency	Medium	Low	Medium	High (Smart contract + API)
+Ideal For	Conservative investors	Long-term asset holders	Mid-risk investors	High-yield digital FDI participants
+
+
+⸻
+
+🚀 How Stable Pay Helps NRI, HNI, and Corporate Investors
+
+🔗 1. Faster Market Access
+	•	No need for physical presence or land registration
+	•	Onboarding in under 15 minutes with digital KYC
+
+💸 2. Superior Returns (Without Lock-In)
+	•	Stable Pay vaults offer 1–1.5% yield every 15 days
+	•	Real estate and bank FDs can’t match short-term yield frequency
+
+🧾 3. Full FIU-IND & FEMA Compliance
+	•	Reporting-ready outputs for audit, RBI, CA, or legal teams
+	•	Available to both individuals and corporate treasuries
+
+🌐 4. Cross-Border Simplicity
+	•	Use stablecoins (USDC/USDT) across supported chains
+	•	Funds never leave custody – self-controlled wallets
+
+📱 5. Live Portfolio & Reporting Dashboard
+	•	Exportable yield receipts, transaction history, real-time tracking
+	•	Aggregates wallet data across chains (Ethereum, BSC, Base, etc.)
+
+⸻
+
+🎯 Who Benefits the Most
+
+Segment	Need	How Stable Pay Helps
+NRIs	Access to safe, high-yield India assets	Self-custody vault with 1–1.5%/month
+HNIs	Short-term liquidity + returns	15-day cycles, no lock-in, auto-report
+Corporates	FDI into India with treasury controls	KYB onboarding + FIU compliance panel
+VCs/Angels	Capital parking between rounds	Transparent, no escrow, real-time exit
+Real Estate Firms	Add-on yield product for idle capital	Liquidity vault integration with payout logs
+
+
+⸻
+
+📦 Stable Pay Advantage Summary
+	•	🔐 FIU-IND Registered
+	•	🌉 Multi-chain Stablecoin Gateway (USDC/USDT)
+	•	💼 Corporate + Retail Ready (Wallet or KYB onboarding)
+	•	📊 Vault Explorer with 15-Day Payout Logs
+	•	✅ IFSCA-Compliant FDI Model
+
+⸻
+
+Would you like this formatted as:
+	•	🖥 A landing page module (React/Tailwind)?
+	•	📄 A marketing one-pager or PDF comparison deck?
+	•	🧾 An investor memo to attach to your onboarding materials?
+
+Let me know your preferred format — I’ll generate it right away.
